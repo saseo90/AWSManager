@@ -1,0 +1,19 @@
+﻿# 01.main class 
+# /aws/manager/main/MainApplication.class
+#
+# 02.개발 및 운영환경
+# 이클립스(Luna), Spring, java8, javaFX, maven 등
+#
+# 03.라이브러리 
+# Spring-boot-starter 1.4.3, aws-java-sdk 1.11.140, amazon-kinesis-client 1.2.1
+#
+# 04.바로실행파일
+# 프로젝트 내 "run" 폴더에 "awsManagerVx.x.exe" 를 실행한다. 
+# 라이브러리 및 jre 포함되어 있어서 바로 실행가능하다.
+#
+# 05.프로젝트 실행
+# 프로젝트 import 후 메이븐 프로젝트업데이트 실행하여 라이브러를 포함한다.
+# 프로젝트 우클릭 > run as > java application > mainapplication.class 선택한다.
+#
+# 90.기타문의
+# saseo90@naver.com 
